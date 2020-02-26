@@ -1,0 +1,234 @@
+[
+  {
+    "title": "首页",
+    "link": ""
+  },
+  {
+    "title": "单位概况",
+    "link": "info",
+    "sub": [
+      {
+        "title": "机构简介",
+        "type": "page",
+        "link": "org"
+      },
+      {
+        "title": "现任领导",
+        "type": "page",
+        "link": "leader"
+      },
+      {
+        "title": "历任领导",
+        "type": "page",
+        "link": "leaders"
+      },
+      {
+        "title": "历史沿革",
+        "type": "page",
+        "link": "history"
+      },
+      {
+        "title": "发展规划",
+        "type": "page",
+        "link": "development"
+      },
+      {
+        "title": "地理位置",
+        "type": "page",
+        "link": "location"
+      },
+      {
+        "title": "联系我们",
+        "type": "page",
+        "link": "contact"
+      }
+    ]
+  },
+  {
+    "title": "新闻动态",
+    "link": "news",
+    "sub": [
+      {
+        "title": "头条新闻",
+        "type": "catagory",
+        "link": "headline"
+      },
+      {
+        "title": "科研动态",
+        "type": "catagory",
+        "link": "research"
+      },
+      {
+        "title": "项目进展",
+        "type": "catagory",
+        "link": "projects"
+      },
+      {
+        "title": "综合新闻",
+        "type": "catagory",
+        "link": "generic"
+      },
+      {
+        "title": "会议信息",
+        "type": "catagory",
+        "link": "conference"
+      }
+    ]
+  },
+  {
+    "title": "机构设置",
+    "link": "facilities",
+    "sub": [
+      {
+        "title": "科研部门",
+        "type": "page",
+        "link": "science"
+      },
+      {
+        "title": "管理部门",
+        "type": "page",
+        "link": "admin"
+      },
+      {
+        "title": "支持部门",
+        "type": "page",
+        "link": "support"
+      },
+      {
+        "title": "驻外机构",
+        "type": "page",
+        "link": "foreign"
+      },
+      {
+        "title": "重点实验室",
+        "type": "page",
+        "link": "keylab"
+      }
+    ]
+  },
+  {
+    "title": "研究队伍",
+    "link": "research_team",
+    "sub": [
+      {
+        "title": "概况介绍",
+        "type": "page",
+        "link": "general"
+      },
+      {
+        "title": "院士专家",
+        "type": "page",
+        "link": "professional"
+      },
+      {
+        "title": "研究员",
+        "type": "page",
+        "link": "researchers"
+      }
+    ]
+  },
+  {
+    "title": "科研成果",
+    "link": "result",
+    "sub": [
+      {
+        "title": "概况介绍",
+        "type": "page",
+        "link": "general"
+      },
+      {
+        "title": "获奖",
+        "type": "page",
+        "link": "prize"
+      },
+      {
+        "title": "论文",
+        "type": "page",
+        "link": "paper"
+      },
+      {
+        "title": "专利",
+        "type": "page",
+        "link": "invention"
+      },
+      {
+        "title": "专著",
+        "type": "page",
+        "link": "books"
+      },
+      {
+        "title": "重点成果介绍",
+        "type": "page",
+        "link": "important"
+      }
+    ]
+  },
+  {
+    "title": "合作交流",
+    "link": "coop",
+    "sub": [
+      {
+        "title": "国内合作",
+        "type": "catagory",
+        "link": "homeland"
+      },
+      {
+        "title": "国际会议",
+        "type": "catagory",
+        "link": "meetings"
+      },
+      {
+        "title": "国际组织",
+        "type": "catagory",
+        "link": "org"
+      },
+      {
+        "title": "合作项目",
+        "type": "catagory",
+        "link": "projects"
+      }
+    ]
+  },
+  {
+    "title": "学术出版",
+    "link": "publish",
+    "sub": [
+      {
+        "title": "奈安提克学报",
+        "type": "redirect",
+        "link": "niaj"
+      }
+    ]
+  },
+  {
+    "title": "信息公开",
+    "link": "information",
+    "sub": [
+      {
+        "title": "信息公开规定",
+        "type": "catagory",
+        "link": "rule"
+      },
+      {
+        "title": "信息公开目录",
+        "type": "catagory",
+        "link": "catagory"
+      },
+      {
+        "title": "依申请公开",
+        "type": "catagory",
+        "link": "apply"
+      },
+      {
+        "title": "信息公开年度报告",
+        "type": "catagory",
+        "link": "annual"
+      },
+      {
+        "title": "信息公开联系方式",
+        "type": "catagory",
+        "link": "contact"
+      }
+    ]
+  }
+]
