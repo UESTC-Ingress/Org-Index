@@ -7,7 +7,7 @@
       <p
         class="news-item text-truncate"
         v-for="i in items.slice(0, 5)"
-        :key="i"
+        :key="i.url"
       >
         <router-link
           class="text-danger"

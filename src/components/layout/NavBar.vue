@@ -24,8 +24,8 @@
         <div class="w-100">
           <b-navbar toggleable="lg" type="dark" variant="danger">
             <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-            <div class="col-10 offset-1">
-              <b-collapse id="nav-collapse" is-nav>
+            <div class="col-12">
+              <b-collapse id="nav-collapse " is-nav>
                 <b-navbar-nav>
                   <div v-for="link in links" :key="link.title">
                     <b-nav-item
@@ -52,8 +52,9 @@
                     </b-nav-item-dropdown>
                   </div>
                 </b-navbar-nav>
-                <b-navbar-nav class="mr-auto d-none d-xl-block">
-                  <b-nav-form>
+
+                <b-navbar-nav class="ml-auto d-none d-xl-block">
+                  <b-input-group right>
                     <b-form-input
                       class="mr-sm-1 barsearch"
                       placeholder="输入搜索内容"
@@ -64,7 +65,7 @@
                       type="submit"
                       >搜索</b-button
                     >
-                  </b-nav-form>
+                  </b-input-group>
                 </b-navbar-nav>
               </b-collapse>
             </div>
