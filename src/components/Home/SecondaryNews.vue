@@ -1,5 +1,5 @@
 <template>
-  <b-card :header-class="headerclass">
+  <b-card :header-class="headerclass" class="ml-2 mr-2">
     <template v-slot:header>
       <b class="text-danger">{{ title }}</b>
     </template>

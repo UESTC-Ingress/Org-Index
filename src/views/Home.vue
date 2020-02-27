@@ -10,40 +10,20 @@
         </div>
       </div>
     </b-card>
-    <div class="row justify-content-around">
+    <div class="row justify-content-around no-gutters">
       <div class="col-12 mb-2"><ImgCard :src="anni" /></div>
       <div class="col-12 col-md-8">
-        <div class="row">
-          <div class="col-10 offset-1 offset-md-0 col-md-6 mb-2">
+        <div class="row no-gutters">
+          <div
+            class="col-10 offset-1 offset-md-0 col-md-6 mb-2"
+            v-for="i in [1, 2, 3, 4]"
+            :key="i"
+          >
             <SecondaryNews
-              headerclass="subnews1"
-              :title="news[0].title"
-              :items="news[0].items"
-              url="research"
-            />
-          </div>
-          <div class="col-10 offset-1 offset-md-0 col-md-6 mb-2">
-            <SecondaryNews
-              headerclass="subnews2"
-              :title="news[1].title"
-              :items="news[1].items"
-              url="projects"
-            />
-          </div>
-          <div class="col-10 offset-1 offset-md-0 col-md-6 mb-2">
-            <SecondaryNews
-              headerclass="subnews3"
-              :title="news[2].title"
-              :items="news[2].items"
-              url="generic"
-            />
-          </div>
-          <div class="col-10 offset-1 offset-md-0 col-md-6 mb-2">
-            <SecondaryNews
-              headerclass="subnews4"
-              :title="news[3].title"
-              :items="news[3].items"
-              url="conference"
+              :headerclass="'subnews' + i"
+              :title="news[i - 1].title"
+              :items="news[i - 1].items"
+              :url="news[i - 1].url"
             />
           </div>
         </div>
@@ -80,18 +60,22 @@ export default {
     news: [
       {
         title: "科研动态",
+        url: "research",
         items: news_research
       },
       {
         title: "项目进展",
+        url: "projects",
         items: news_projects
       },
       {
         title: "综合新闻",
+        url: "generic",
         items: news_generic
       },
       {
         title: "会议信息",
+        url: "conference",
         items: news_conference
       }
     ]

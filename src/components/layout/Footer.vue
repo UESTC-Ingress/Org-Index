@@ -30,10 +30,10 @@
     </div>
     <div class="col-10 offset-1 mb-4 mt-4">
       <div class="row mb-4">
-        <div class="col-5">
+        <div class="col-12 col-md-5">
           <b-img class="whitelogo" src="@/assets/logo_long_new.png" fluid />
         </div>
-        <div class="col-6 text-light">
+        <div class="col-12 col-md-6 text-light mt-4 mt-md-0">
           <small>
             Copyright &copy; 2020 奈安提克计划中国奇异物质研究所 <br />
             地址:成都市高新区（西区）西源大道2006号 <br />

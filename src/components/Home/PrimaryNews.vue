@@ -1,16 +1,19 @@
 <template>
   <div class="ml-2 h-100">
     <div class="row h-100 w-100 no-gutters">
-      <b-card-text class="mt-2 mr-1 mb-auto">
+      <b-card-text class="mt-2 ml-2 mr-2 mb-auto ">
         <small>头条新闻</small>
-        <a :href="'/article/news/headline/' + head_news.headline.url"
-          ><h5 class="text-danger">
+        <h5 class="text-truncate">
+          <router-link
+            class="text-danger"
+            :to="'/article/news/headline/' + head_news.headline.url"
+          >
             {{ head_news.headline.title }}
-          </h5></a
-        >
+          </router-link>
+        </h5>
         <p>
           <small>
-            {{ head_news.headline.desc }}
+            {{ head_news.headline.desc }}<br />
             <router-link
               class="text-danger"
               :to="'/article/news/headline/' + head_news.headline.url"
@@ -21,7 +24,7 @@
         </p>
         <hr />
         <div
-          class="row news-item"
+          class="row news-item no-gutters"
           v-for="i in headline.slice(0, 5)"
           :key="i.title"
         >
@@ -40,7 +43,7 @@
         </div>
       </b-card-text>
       <b-card-footer class="align-self-end text-right w-100">
-        <b-badge href="/catagory/news/headline" variant="danger"
+        <b-badge to="/catagory/news/headline" variant="danger"
           >查看更多</b-badge
         >
       </b-card-footer>

@@ -19,15 +19,28 @@
       </div>
       <div class="row no-gutters">
         <div class="col-10 offset-1 mt-4 mb-4 col-md-6">
-          <b-img class="headerimg" :src="logo_long" fluid />
+          <b-img
+            @click="$router.push('/')"
+            class="headerimg"
+            :src="logo_long"
+            fluid
+          />
         </div>
         <div class="w-100">
           <b-navbar toggleable="lg" type="dark" variant="danger">
             <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-            <div class="col-11 pl-4 pr-4">
-              <b-collapse id="nav-collapse" is-nav>
+            <div class="col-10 offset-1">
+              <b-collapse
+                id="nav-collapse"
+                class="justify-content-center"
+                is-nav
+              >
                 <b-navbar-nav>
-                  <div v-for="link in links" :key="link.title">
+                  <div
+                    v-for="link in links"
+                    :key="link.title"
+                    style="white-space: nowrap"
+                  >
                     <b-nav-item
                       :to="'/' + link.link"
                       v-if="typeof link.sub === 'undefined'"
@@ -52,7 +65,7 @@
                     </b-nav-item-dropdown>
                   </div>
                 </b-navbar-nav>
-
+                <div class="col" />
                 <b-navbar-nav class="ml-auto d-none d-xl-block">
                   <b-input-group right>
                     <b-form-input
