@@ -1,9 +1,10 @@
 <template>
   <div class="row">
-    <div class="col-3">
+    <div class="col-3 d-none d-md-block">
       <SideCatagory :nav="nav" />
     </div>
-    <div class="col-9">
+    <div class="col-md-9 col-10 offset-1 offset-md-0">
+      <b-card-title>{{ navitem.title }}</b-card-title>
       <b-list-group v-if="list.length > 0">
         <b-list-group-item
           class="d-flex justify-content-between align-items-center"

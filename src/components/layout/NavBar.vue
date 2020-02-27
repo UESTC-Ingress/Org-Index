@@ -24,8 +24,8 @@
         <div class="w-100">
           <b-navbar toggleable="lg" type="dark" variant="danger">
             <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
-            <div class="col-12">
-              <b-collapse id="nav-collapse " is-nav>
+            <div class="col-11 pl-4 pr-4">
+              <b-collapse id="nav-collapse" is-nav>
                 <b-navbar-nav>
                   <div v-for="link in links" :key="link.title">
                     <b-nav-item

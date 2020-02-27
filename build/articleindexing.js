@@ -5,10 +5,18 @@ var catagory = [
   {
     name: "news",
     sub: ["conference", "generic", "headline", "projects", "research"]
+  },
+  {
+    name: "information",
+    sub: ["rule", "catagory", "apply", "annual", "contact"]
   }
 ];
 
 for (var c in catagory) {
+  var cataPath = path.resolve("public/doc/" + catagory[c].name);
+  if (!fs.existsSync(cataPath)) {
+    fs.mkdirSync(cataPath);
+  }
   for (var i in catagory[c].sub) {
     var output_obj = [];
     var filePath = path.resolve(

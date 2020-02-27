@@ -1,9 +1,9 @@
 <template>
   <div class="row">
-    <div class="col-3">
+    <div class="col-3 d-none d-md-block">
       <SideCatagory :nav="nav" />
     </div>
-    <div class="col-9">
+    <div class="col-md-9 col-10 offset-1 offset-md-0">
       <b-media>
         <h5 class="mt-0">
           {{ this.$route.params.article ? "正文" : navitem.title }}

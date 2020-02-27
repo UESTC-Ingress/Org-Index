@@ -48,7 +48,7 @@
           </div>
         </div>
       </div>
-      <div class="col-12 col-md-4 mb-2">
+      <div class="col-10 col-md-4 mb-2">
         <Functions />
         <b-card header-class="topic" no-body>
           <template v-slot:header>
