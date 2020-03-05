@@ -24,4 +24,4 @@ deploy:
   on:
     branch: master
   github-token: $GITHUB_TOKEN
-  fqdn: beta.nia.ac.cn
+  fqdn: nia.ac.cn
