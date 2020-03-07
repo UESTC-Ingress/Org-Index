@@ -5,7 +5,7 @@
 
 作为所内著名产品，JGB是各位研究人员平日结束科研工作后的常用食品。本次文化论坛，皮特金院士将从多方面解构JGB后的奥秘，并对各位探员提出更加周全的使用方法。
 
-JGB是重庆SJG和重庆GGJ在外地的杂交变种菜品。以浓香滑嫩，入味彻底，形式新颖见长，口味可根据各地需要可调，分微辣、中辣、重辣各味型。SJG是重庆及四川一带的特色菜，之所以叫SJG而不叫SGJ，是因为在重庆话中GJ被称为JG。然而在短时间内多次使用JGB，菜肴中的油量与辣度参数将会对食用者的健康产生较大不利影响。故需使用本部门特制产品——贤者の排食（真实名称已隐去）以最大限度抵消此种影响。     
+JGB是重庆SJG和重庆GGJ在外地的杂交变种菜品。以浓香滑嫩，入味彻底，形式新颖见长，口味可根据各地需要可调，分微辣、中辣、重辣各味型。SJG是重庆及四川一带的特色菜，之所以叫SJG而不叫SGJ，是因为在重庆话中GJ被称为JG。然而在短时间内多次使用JGB，菜肴中的油量与辣度参数将会对食用者的健康产生较大不利影响。故需使用本部门特制产品——贤者の排食（此为产品代号，真实名称已隐去）以最大限度抵消此种影响。     
 
 ### 原理
 必要的试验说明，贤者の排食在控制JGB的油脂摄入方面有较大影响：
@@ -14,20 +14,20 @@ JGB是重庆SJG和重庆GGJ在外地的杂交变种菜品。以浓香滑嫩，�
 两组健康成年男士给予进食乌冬便当。结果发现，饮用有加入5克难消化性糊精于热茶内的组别，相比饮用一般热茶的组别，消化过程中有效阻截淀粉的吸收。 
 
 <center>
-<img src="/doc/images/Experimental-Results-tea-reduced.png" width="256px"/><br/>
+<img src="/doc/images/Experimental-Results-tea-reduced.png" width="512px"/><br/>
 </center>
 
 #### 抑制消化过程中脂肪的吸收       
 两组健康成年给予进食高脂肪快餐，当中包括汉堡包及薯条。结果发现，饮用有加入5克难消化性糊精饮料的组别，相比没有配合饮用的组别，其餐后脂肪吸收显著减少。        
 <center>
-<img src="/doc/images/Experimental-Results-fat-reduced.png" width="256px"/><br/>
+<img src="/doc/images/Experimental-Results-fat-reduced.png" width="512px"/><br/>
 </center>
 
 #### 增加脂肪排出量              
 两组健康成年人连续10日，1日3餐均加入5克难消化性糊精于餐饮内。结果发现，饮用有加入难消化性糊精饮料的成年人，脂肪于消化过程中不易被吸收，其粪便中脂肪排出量比没有添加饮用前多1倍。此外，不会引起腹泻及屙油的情况发生。    
 
 <center>
-<img src="/doc/images/Experimental-Results-stool-enhanced.png" width="256px"/><br/>
+<img src="/doc/images/Experimental-Results-stool-enhanced.png" width="512px"/><br/>
 </center>
 
 
