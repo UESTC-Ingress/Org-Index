@@ -30,6 +30,9 @@ for (var c in catagory) {
       var fileobj = readFileInfo(filePath, filename);
       if (fileobj != null) output_obj.push(fileobj);
     });
+    output_obj.sort(function(a, b){
+      return new Date(b.time) - new Date(a.time);
+    });
     var json = JSON.stringify(output_obj);
     fs.writeFileSync(
       "public/doc/catagory/" +
