@@ -8,7 +8,7 @@
 本文中利用有机无机纳米复合技术, 将XM-α-1331粒子使用静电吹吸技术与Fe<sub>3</sub>O<sub>4</sub>纳米粒子复合, 制备了微米级的XM-α-Fe<sub>3</sub>O<sub>4</sub>纳米复合粒子, 简化了制备工艺。对XM-α-Fe<sub>3</sub>O<sub>4</sub>纳米复合粒子进行了表征, 研究了其化学稳定性和磁性能。由于XM-α-1331粒子具有半导体性质, 可组成电流变液, 因此XM-α-Fe<sub>3</sub>O<sub>4</sub> 纳米复合粒子的制备为获得高性能的电磁流变液打下了基础。
 
 <center>
-<img src="/doc/images/Experimental-Results-Electromagnetic.jpg" width="512px"/><br/>
+<img src="/doc/images/Experimental-Results-Electromagnetic.jpg" width="100%"/><br/>
 <h5>图1 电磁流变液示意图</h5>
 </center>
 
