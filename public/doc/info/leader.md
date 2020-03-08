@@ -6,7 +6,7 @@
 </center>
 <br>
 <center>
-<img src="/doc/images/avatar_digooooohuang.png" width="128px"/><br/>
+<img src="/doc/images/avatar_digoooohuang.jpg" width="128px"/><br/>
 <h5><b>奈安提克中国奇异物质研究所所长副所长: 迪苟黄</b></h5>
 高级别研究员、奈安提克科学院教授
 </center>
