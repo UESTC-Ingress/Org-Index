@@ -14,8 +14,8 @@
 ##### 主要领导
 <center>
 <img src="/doc/images/avatar_ChinenSutera.jpg" width="128px"/><br/>
-<h5><b>机构驻AS13-NOVEMBER-[<I>已编辑</I>]区办事处处长：知念想空</b></h5>
+<h5><b>机构驻AS13-NOVEMBER-[<I>已编辑</I>]区办事处处长：知念星空</b></h5>
 
-初级研究员、AS13-NOVEMBER-[<I>已编辑</I>]区域探员管理组组长
+初级研究员、机构驻AS13-NOVEMBER-[<I>已编辑</I>]区域联络员
 </center>
 
