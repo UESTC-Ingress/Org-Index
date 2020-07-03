@@ -4,7 +4,7 @@
       <b-navbar type="dark">
         <div class="col-6">
           <b-navbar-nav class="row">
-            <b-nav-item class="col-12 col-md-3" href="admin@nia.ac.cn">
+            <b-nav-item class="col-12 col-md-3" href="mailto:admin@nia.ac.cn">
               负责人信箱
             </b-nav-item>
             <b-nav-item class="col-12 col-md-3">

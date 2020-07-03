@@ -20,6 +20,10 @@ const routes = [
   {
     path: "/catagory/:catagory/:item",
     component: () => import("@/views/CatagoryView")
+  },
+  {
+    path: "/redirect/:catagory/:item",
+    component: () => import("@/views/RedirectView")
   }
 ];
 

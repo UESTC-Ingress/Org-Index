@@ -1,3 +1,1 @@
-export function Cycle() {
-
-}
+export function Cycle() {}
